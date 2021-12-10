@@ -31,6 +31,8 @@ Despite having the largest amount of restaurant applications, Manhattan and Broo
 
 <img width="706" alt="seating preference pie chart" src="https://user-images.githubusercontent.com/92804326/145531774-a1c2b66c-7aa6-445a-b7ea-5b5846de8cd1.png">
 
+![comparison](approved.png)
+
 This pie chart displays where restaurants wanted their seating to be located. Here, "both" represents both sidewalk and roadway seating, and has totalled to a 51.9% of interest. Most restaurants are just trying to survive, so they applied for "both" to get anything they could. There are few open streets in our borough. Some are hesitant to take away valuable parking spaces in car-dependent Brooklyn, thus explaining the 3.1% of open street preferences. For restaurants that had very limited seating prior to the pandemic, allowing both sidewalk and roadway seating served to be a benefit to them.
 
 ## Alcohol-Serving Establishments
