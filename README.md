@@ -47,3 +47,5 @@ This bar chart shows the proportion of restaurants that serve alcohol to the tot
 [Sheepshead Bay](https://edmaxprime.github.io/cs127-restaurants/max.html)
 
 [Greenpoint](https://jaspercheung.github.io/127_hc_11/)
+
+[Bay Ridge](https://arsent1.github.io/BayRidge/)
