@@ -3,7 +3,7 @@
 
 ![brooklynforfinal](https://user-images.githubusercontent.com/92804326/145525923-456fbd61-6ac7-4b11-9a5a-ab4ea0c58939.png)
 
-We analyzed the open restaurant application data for Brooklyn in five different neighborhoods: Dumbo, Bay Ridge, Bushwick, Greenpoint, and Sheepshead Bay. We observed the similaraties between each neighborhood and how they ranked against one another in the three qualities—transit access, greenery/shade, safety—we deemed most desirable for outdoor dining. Our data analysis involved observations about how the Brooklyn data compared to the other boroughs along with how the specific neighborhoods were reflected. This analysis focused on aspects of the applications that related to these qualities, such as how the amount of alcohol-serving restaurants relates to the safety of the area.
+We analyzed the open restaurant application data for Brooklyn in five different neighborhoods: Dumbo, Bay Ridge, Bushwick, Greenpoint, and Sheepshead Bay. We observed the similaraties between each neighborhood and how they ranked against one another in the three qualities—transit access, greenery/shade, safety—we deemed most desirable for outdoor dining. Our data analysis involved observations about how the Brooklyn data compared to the other boroughs along with how the specific neighborhoods were reflected. This analysis focused on aspects of the applications that related to our chosen qualities, such as how the amount of alcohol-serving restaurants relates to the safety of the area.
 
 ## Citywide Restaurant Population
 
@@ -37,7 +37,7 @@ This pie chart displays where restaurants wanted their seating to be located. He
 
 <img width="664" alt="Screen Shot 2021-12-10 at 2 10 04 AM" src="https://user-images.githubusercontent.com/92804326/145532557-8a5fac3f-f9db-4f45-997d-3f551416e8e0.png">
 
-This bar chart shows the proportion of restaurants that serve alcohol to the total number of restaurants in the borough. Brooklyn is average in terms of serving alcohol, but has the lowest percentage out of the 5 boroughs. We listed safety as one of our top 3 most important qualities for outdoor dining. This data reflects one aspect of safety in Brooklyn, which is that the lower amount of alcohol-serving restaurants can make the neighborhoods safer. Some community boards are keen to preserve the residential character of their neighborhoods, and so they don't approve liquor licenses. Our neighborhoods are also generally family-oriented, primarily Bay Ridge, which could be a reason for Brooklyn’s lowest percentage.
+This bar chart shows the proportion of restaurants that serve alcohol to the total number of restaurants in the borough. Brooklyn is average in terms of serving alcohol, but has the lowest percentage out of the 5 boroughs. This data reflects one aspect of safety in Brooklyn, which is that the lower amount of alcohol-serving restaurants can make the neighborhoods safer. Some community boards are keen to preserve the residential character of their neighborhoods, and so they don't approve liquor licenses. Our neighborhoods are also generally family-oriented, primarily Bay Ridge, which could be a reason for Brooklyn’s lowest percentage.
 
 
 ## Neighborhood Pages:
