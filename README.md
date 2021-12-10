@@ -8,8 +8,8 @@ We analyzed the open restaurant application data for Brooklyn in five different 
 ## Neighborhood Pages:
 
 ### Bushwick
-(https://laurensgalarza.github.io/bushwick/)
+[Bushwick Analysis](https://laurensgalarza.github.io/bushwick/)
 ### Sheepshead Bay
-(https://edmaxprime.github.io/cs127-restaurants/max.html)
+[Sheepshead Bay Analysis](https://edmaxprime.github.io/cs127-restaurants/max.html)
 ### Greenpoint
-(https://jaspercheung.github.io/127_hc_11/)
+[Greenpoint Analysis](https://jaspercheung.github.io/127_hc_11/)
